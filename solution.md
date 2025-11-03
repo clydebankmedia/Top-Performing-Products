@@ -11,8 +11,8 @@
     LIMIT 5;
 ```
 </details>
-<summary> Step 3 Solution - Apply the Join for Reporting</summary>
-<details>
+<details><summary> Step 3 Solution - Apply the Join for Reporting</summary>
+
 
 ```sql
     SELECT t.name, ti.ticket_id
